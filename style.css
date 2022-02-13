@@ -1,0 +1,144 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1{
+    width: 48%;
+    margin: auto;
+    border: 2px solid rgb(167, 164, 164);
+    border-radius: 10px;
+    margin-top: 2cm;
+}
+.box1 .box1_1{
+    width: 50%;
+    margin: auto;    
+}
+.color{
+    color: rgb(68, 17, 116);
+}
+  /* second box */
+.box2{
+    width: 30%;
+    margin: auto;
+    margin-top: 2cm;
+    border: 2px solid rgb(167, 164, 164);
+    border-radius: 10px;    
+}
+
+.box2 .box2_1{
+    width: 320px;
+    margin: auto;
+}
+h2{
+    font-size: medium;
+}
+.ms{
+    margin-top: 1.2cm;
+    margin-bottom:1.2cm ;
+    font-size: 18px;
+}
+
+/* third image */
+strong{
+    color: rgb(27, 168, 86);
+}
+.box3 p{
+    display: inline;
+    margin-left: 1cm;
+    color: blue;
+}
+.box3 img{
+    width: 100%;
+    margin: auto;
+    height: 7.5cm;
+}
+.box3{
+    width: 40%;
+    margin: auto;
+    margin-top: 2cm;
+}
+button{
+    color: aliceblue;
+    background-color: rgb(0, 68, 255);
+    border-radius: 10px;
+    width: 5cm;
+}
+/*  */
+.box3_2{
+    width: 30%;
+    margin: auto;
+    margin-top: 2cm;
+    border: 2px solid rgb(167, 164, 164);
+    border-radius: 10px;    
+}
+.box3_2 .box3_1{
+    width: 320px;
+    margin: auto;
+}
+h4{
+    font-size: medium;
+}
+.sm{
+    margin-top: 1.2cm;
+    margin-bottom:1.2cm ;
+    font-size: 18px;
+    color: blue;
+}
+
+/* fourth assignment */
+.b1{
+    width: 30%;
+    margin: auto;
+    margin-top: 3cm;
+    padding-top: 7cm;
+}
+.b1 h5{
+    font-size: 25px;
+}
+.b2{
+    width: 30%;
+    margin: auto auto auto 3cm;
+    margin-top: 2cm;   
+}
+.b2 h5{
+    font-size: 20px;
+    text-align: center;
+}
+.b3 h5{
+    font-size: 20px;
+    text-align: center;
+}
+.b2 p{
+    text-align: center;
+}
+.b3 p{
+    text-align: center;
+}
+.b3{
+    width: 30%;
+    margin: auto;
+    margin-top: 2cm;    
+}
+.b2_1{
+    width: 250px;
+    margin-left: 0%;
+    margin-top: 2cm;
+}
+.b3_1{
+    width: 250px;
+    margin-right: 0%;
+    margin-top: 2cm;
+}
+.example4 p{
+    font-size: 18px;
+    color: rgb(133, 133, 133);
+}
+
+
